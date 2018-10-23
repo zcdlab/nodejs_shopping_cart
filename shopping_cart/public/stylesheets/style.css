@@ -1,0 +1,19 @@
+font-family: 'Open Sans', sans-serif;
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail caption{
+    color: green;
+}
